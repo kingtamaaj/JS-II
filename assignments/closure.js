@@ -1,7 +1,11 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
-
-
+const whoAreYou = 'Superman';
+  function speak() {
+    console.log(`I am part ${whoAreYou} and part Harry Potter!`)
+  }
+    speak(); 
+    
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
 
